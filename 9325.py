@@ -8,4 +8,4 @@ for i in range(test_case):
         q,p = map(int,input().split())
         total+=q*p
 
-print(total)
+    print(total+S)
